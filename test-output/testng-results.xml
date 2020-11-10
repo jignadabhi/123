@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60293" started-at="2020-11-09T21:49:16 GMT" finished-at="2020-11-09T21:50:16 GMT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60293" started-at="2020-11-09T21:49:16 GMT" finished-at="2020-11-09T21:50:16 GMT">
+      <class name="uitesting.Popularlinkstest">
+        <test-method status="PASS" signature="esetup()[pri:0, instance:uitesting.Popularlinkstest@34cd072c]" name="esetup" is-config="true" duration-ms="307" started-at="2020-11-09T21:49:16 GMT" finished-at="2020-11-09T21:49:16 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- esetup -->
+        <test-method status="PASS" signature="invokebrowser()[pri:0, instance:uitesting.Popularlinkstest@34cd072c]" name="invokebrowser" is-config="true" duration-ms="11090" started-at="2020-11-09T21:49:16 GMT" finished-at="2020-11-09T21:49:27 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokebrowser -->
+        <test-method status="PASS" signature="alaptop()[pri:0, instance:uitesting.Popularlinkstest@34cd072c]" name="alaptop" duration-ms="7457" started-at="2020-11-09T21:49:27 GMT" finished-at="2020-11-09T21:49:34 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alaptop -->
+        <test-method status="PASS" signature="closeb()[pri:0, instance:uitesting.Popularlinkstest@34cd072c]" name="closeb" is-config="true" duration-ms="3752" started-at="2020-11-09T21:49:34 GMT" finished-at="2020-11-09T21:49:38 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeb -->
+        <test-method status="PASS" signature="invokebrowser()[pri:0, instance:uitesting.Popularlinkstest@34cd072c]" name="invokebrowser" is-config="true" duration-ms="9232" started-at="2020-11-09T21:49:38 GMT" finished-at="2020-11-09T21:49:47 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokebrowser -->
+        <test-method status="PASS" signature="speaker()[pri:0, instance:uitesting.Popularlinkstest@34cd072c]" name="speaker" duration-ms="6504" started-at="2020-11-09T21:49:47 GMT" finished-at="2020-11-09T21:49:54 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- speaker -->
+        <test-method status="PASS" signature="closeb()[pri:0, instance:uitesting.Popularlinkstest@34cd072c]" name="closeb" is-config="true" duration-ms="3376" started-at="2020-11-09T21:49:54 GMT" finished-at="2020-11-09T21:49:57 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeb -->
+        <test-method status="PASS" signature="invokebrowser()[pri:0, instance:uitesting.Popularlinkstest@34cd072c]" name="invokebrowser" is-config="true" duration-ms="8632" started-at="2020-11-09T21:49:57 GMT" finished-at="2020-11-09T21:50:06 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokebrowser -->
+        <test-method status="PASS" signature="tablet()[pri:0, instance:uitesting.Popularlinkstest@34cd072c]" name="tablet" duration-ms="6360" started-at="2020-11-09T21:50:06 GMT" finished-at="2020-11-09T21:50:12 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tablet -->
+        <test-method status="PASS" signature="closeb()[pri:0, instance:uitesting.Popularlinkstest@34cd072c]" name="closeb" is-config="true" duration-ms="3530" started-at="2020-11-09T21:50:12 GMT" finished-at="2020-11-09T21:50:16 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeb -->
+      </class> <!-- uitesting.Popularlinkstest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
